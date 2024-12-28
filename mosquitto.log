@@ -1,0 +1,25 @@
+1735386862: mosquitto version 1.6.9 starting
+1735386862: Config loaded from mosquitto.conf.
+1735386862: Error: Invalid password hash for user admin, removing entry.
+1735386862: Opening ipv4 listen socket on port 1883.
+1735386917: mosquitto version 1.6.9 terminating
+1735386984: mosquitto version 1.6.9 starting
+1735386984: Config loaded from mosquitto.conf.
+1735386984: Opening ipv4 listen socket on port 1883.
+1735387214: New connection from 127.0.0.1 on port 1883.
+1735387214: Client <unknown> disconnected due to protocol error.
+1735387214: New connection from 127.0.0.1 on port 1883.
+1735387214: Client <unknown> disconnected due to protocol error.
+1735387214: New connection from 127.0.0.1 on port 1883.
+1735387214: Client <unknown> disconnected due to protocol error.
+1735387215: New connection from 127.0.0.1 on port 1883.
+1735387215: Client <unknown> disconnected due to protocol error.
+1735387224: New connection from 127.0.0.1 on port 1883.
+1735387224: Client <unknown> disconnected due to protocol error.
+1735387224: New connection from 127.0.0.1 on port 1883.
+1735387224: Client <unknown> disconnected due to protocol error.
+1735387224: New connection from 127.0.0.1 on port 1883.
+1735387224: Client <unknown> disconnected due to protocol error.
+1735387224: New connection from 127.0.0.1 on port 1883.
+1735387224: Client <unknown> disconnected due to protocol error.
+1735387312: mosquitto version 1.6.9 terminating
